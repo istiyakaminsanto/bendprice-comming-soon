@@ -18,7 +18,7 @@
 
         return this.each(function() {
           var obj = $(this);
-          var timeNow = moment('2018-06-02 11:31:23 PM', 'YYYY-MM-DD hh:mm:ss a');
+          var timeNow = moment('2019-02-02 11:31:23 PM', 'YYYY-MM-DD hh:mm:ss a');
 
           var tZ = options.timeZone; console.log(tZ);
           var endYear = options.endtimeYear;
